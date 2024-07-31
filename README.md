@@ -26,7 +26,6 @@
   <br>
   
 - 🔭 I’m currently studying at Lendi Institute of Engineering and Technology (LIET)
-- 
 - 🌱 I’m currently learning **django**
 
 - 💬 Ask me about **sql**
