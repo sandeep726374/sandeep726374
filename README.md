@@ -1,4 +1,4 @@
-<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2FCyarein1&psig=AOvVaw3FGqHkqjeedj5M5QYQspv-&ust=1722532054301000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCJCVmavi0YcDFQAAAAAdAAAAABAX">
+
 # Hey Everyone! I'm [Sandeep](https://github.com/sandeep726374) <img src="https://github.com/himanshusharma89/himanshusharma89/blob/master/Hi.gif" width="25px">
 <br><br>
 
@@ -26,9 +26,7 @@
   <br>
   
 - 🔭 I’m currently studying at Lendi Institute of Engineering and Technology (LIET)
-- 
 - 🌱 I’m currently learning **django**
-
 - 💬 Ask me about **sql**
 - 👯 I’m looking to collaborate on Linkedin
 - 📫 How to reach me: sandeepkanugula2@gmail.com
@@ -55,7 +53,7 @@
 
 <span>
 <img src="https://github.com/amandewatnitrr/amandewatnitrr/blob/main/imgs/c.svg" alt="drawing" width="50"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="50"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="0"/>
 <img src="https://github.com/amandewatnitrr/amandewatnitrr/blob/main/imgs/python-5.svg" alt="drawing" width="50"/>
 <img src="https://github.com/amandewatnitrr/amandewatnitrr/blob/main/imgs/mysql-6.svg" alt="drawing" width="50"/>
 <img src="https://github.com/amandewatnitrr/amandewatnitrr/blob/main/imgs/html.svg" alt="drawing" width="50"/>
