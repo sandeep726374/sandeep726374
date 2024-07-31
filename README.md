@@ -2,20 +2,18 @@
 # Hey Everyone! I'm [Sandeep](https://github.com/sandeep726374) <img src="https://github.com/himanshusharma89/himanshusharma89/blob/master/Hi.gif" width="25px">
 <img  alt="image" src="https://camo.githubusercontent.com/371a3bbae1297d47d50006f91fdc0f51f0060b62dbbddbdba1b1b1438bc0f80d/68747470733a2f2f6d617275663030312d6d742e6769746875622e696f2f5072656d69756d2d44656c69766572792f7765622e676966">
 <br>
-<a href="https://www.linkedin.com/in/sandeep-kanugula/">
-  <img align="left" alt="SK's Linkedin" width="100px" src="https://img.shields.io/badge/Linkedin-0A66C2?style=for-the-badge&logo=Linkedin&logoColor=white" />
-</a>
 <a href="https://github.com/sandeep726374">
   <img align="left" alt="SK's Github" width="100px" src="https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=Github&logoColor=white" />
 </a>
-<a href="https://www.instagram.com/yours_sanjuu/">
-  <img align="left" alt="SK's Instagram" width="100px" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+<a href="https://www.linkedin.com/in/sandeep-kanugula/">
+  <img align="left" alt="SK's Linkedin" width="100px" src="https://img.shields.io/badge/Linkedin-0A66C2?style=for-the-badge&logo=Linkedin&logoColor=white" />
 </a>
 <a href="https://www.hackerrank.com/profile/sandeepkanugula2">
   <img align="left" alt="akd's HackerRank" width="100px" src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" alt="HackerRank Badge" />
 </a>
-
-
+<a href="https://www.instagram.com/yours_sanjuu/">
+  <img align="left" alt="SK's Instagram" width="100px" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+</a>
 <br><br>
 
 
