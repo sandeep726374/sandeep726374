@@ -1,6 +1,6 @@
 
 # Hey Everyone! I'm [Sandeep](https://github.com/sandeep726374) <img src="[https://github.com/himanshusharma89/himanshusharma89/blob/master/Hi.gif](https://miro.medium.com/v2/resize:fit:1400/1*hak4JqwYiAa_NbSPh9M5Zw.gif)" width="25px">
-<img  alt="image" src="[https://camo.githubusercontent.com/371a3bbae1297d47d50006f91fdc0f51f0060b62dbbddbdba1b1b1438bc0f80d/68747470733a2f2f6d617275663030312d6d742e6769746875622e696f2f5072656d69756d2d44656c69766572792f7765622e676966](https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2FNatthyx%2FNatthyx&psig=AOvVaw2S0rj1BonyKJdQOhhThKDq&ust=1743966584719000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCOjM14DMwYwDFQAAAAAdAAAAABAj)">
+<img  alt="image" src="https://camo.githubusercontent.com/b0d12c640e969f1cff1c70bb51c8e1eedfee5f546b1b061c9d1a9a91e70d15c3/68747470733a2f2f6d617275663030312d6d742e6769746875622e696f2f5072656d69756d2d44656c69766572792f7765622e676966">
 <br>
 <a href="https://github.com/sandeep726374">
   <img align="left" alt="SK's Github" width="100px" src="https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=Github&logoColor=white" />
